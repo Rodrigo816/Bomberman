@@ -1,5 +1,5 @@
 # Bomberman
-
+[![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
 ![alt text](https://i.imgur.com/MRlHaG9.png)
 
 This little Game was created in the extra hours of a programming boocamp lectured by acadeiadecodigo.org,
