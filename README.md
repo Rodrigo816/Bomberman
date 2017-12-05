@@ -2,6 +2,7 @@
 
 ![alt text](https://i.imgur.com/MRlHaG9.png)
 
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 This little Game was created in the extra hours of a programming boocamp lectured by acadeiadecodigo.org,
 after less than one month learning Java.
 
